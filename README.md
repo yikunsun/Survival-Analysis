@@ -24,3 +24,9 @@
 **Among the 5 algorithms, surprisingly _Decision Tree_ had the best accuracy of almost 79% applied on testing data. To me, this is a very good score since I can accurately predict the survival for 79 passengers given 100 passengers in total.** 
 
 **However, there is still much room for improvement. For example, I replaced all the missing values in Age with the mean value. If the missing values were imputed based on other features, our model's accuracy may be higher.** 
+
+**I really enjoyed spending hours on this project and hope my thoughts & codes could offer new insights to anyone who sees this!**
+
+Thanks!
+
+Yikun
